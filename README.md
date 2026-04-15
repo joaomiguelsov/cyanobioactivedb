@@ -70,7 +70,7 @@ If you use CyanoBioActiveDB or any associated materials in your research, please
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GNU General Public License v3.0](LICENSE). Any derivative works must also be distributed under the same license terms.
 
 ---
 
