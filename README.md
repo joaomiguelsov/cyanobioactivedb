@@ -3,7 +3,7 @@
 > A curated machine learning-driven database of bioactive compounds derived from cyanobacteria, designed as a resource for therapeutics and bioremediation research.
 
 [![DOI](https://img.shields.io/badge/DOI-10.1021%2Facs.jcim.4c00995-blue)](https://doi.org/10.1021/acs.jcim.4c00995)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![FAIR](https://img.shields.io/badge/FAIR-Principles-green)](https://www.go-fair.org/fair-principles/)
 
 ---
